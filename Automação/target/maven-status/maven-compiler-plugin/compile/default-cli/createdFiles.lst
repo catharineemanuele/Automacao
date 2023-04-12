@@ -1,0 +1,6 @@
+Actions\ActionsEfetuarCompra.class
+getJsonDataObject.class
+Util\InstanciarWebDriver.class
+Actions\ActionsLogin.class
+PageObjects\PagesObjectAutomacao.class
+Util\Constants.class

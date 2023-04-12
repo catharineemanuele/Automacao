@@ -1,0 +1,16 @@
+{
+
+  "Firstname" : "Catharine",
+  "Lastname" : "Silva",
+  "Andress" : "Rua Padre Diogo Rodrigues",
+  "EmailAndress" : "teste.teste@gmail.com",
+  "Phone" : "8181119767",
+  "Skill": "Certifications",
+  "Year": "1997",
+  "Month": "April",
+  "Day": "30",
+  "Password": "Teste@123",
+  "ConfirmPassword": "Teste@123"
+
+
+}
